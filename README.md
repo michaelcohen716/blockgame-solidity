@@ -1,4 +1,4 @@
-# blockgame-solidity
+# Blockgame (smart contract code)
 The smart contract code for my dApp [Blockgame](www.blockgame.cash).
 
 It's a simplified version of fantasy football where you make a selection of six teams every week. 
