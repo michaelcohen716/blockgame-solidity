@@ -10,3 +10,4 @@ Player with the highest combined total wins.
 Written in Solidity and connected to a React front end.
 
 ![blockgame](./blockgame.png)
+![blockgame](./blockgameZoom.png)
