@@ -8,3 +8,5 @@ Each player is allotted an $150 budget to choose the teams they believe will com
 Player with the highest combined total wins. 
 
 Written in Solidity and connected to a React front end.
+
+![blockgame](./blockgame.png)
